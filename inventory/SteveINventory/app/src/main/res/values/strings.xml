@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SIN v1.0</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="title_activity_inventory">SIN v1.0 - Bevételezés</string>
+
+</resources>
